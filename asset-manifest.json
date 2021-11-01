@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/depairbnb/static/css/main.02c38394.chunk.css",
+    "main.js": "/depairbnb/static/js/main.878a3d42.chunk.js",
+    "main.js.map": "/depairbnb/static/js/main.878a3d42.chunk.js.map",
+    "runtime-main.js": "/depairbnb/static/js/runtime-main.bf86c5c5.js",
+    "runtime-main.js.map": "/depairbnb/static/js/runtime-main.bf86c5c5.js.map",
+    "static/css/2.c351112c.chunk.css": "/depairbnb/static/css/2.c351112c.chunk.css",
+    "static/js/2.e240a4bb.chunk.js": "/depairbnb/static/js/2.e240a4bb.chunk.js",
+    "static/js/2.e240a4bb.chunk.js.map": "/depairbnb/static/js/2.e240a4bb.chunk.js.map",
+    "index.html": "/depairbnb/index.html",
+    "static/css/2.c351112c.chunk.css.map": "/depairbnb/static/css/2.c351112c.chunk.css.map",
+    "static/css/main.02c38394.chunk.css.map": "/depairbnb/static/css/main.02c38394.chunk.css.map",
+    "static/js/2.e240a4bb.chunk.js.LICENSE.txt": "/depairbnb/static/js/2.e240a4bb.chunk.js.LICENSE.txt",
+    "static/media/dubai.a6c56bca.jpg": "/depairbnb/static/media/dubai.a6c56bca.jpg",
+    "static/media/london.16fb9b9d.jpg": "/depairbnb/static/media/london.16fb9b9d.jpg",
+    "static/media/los-angeles.44220702.jpg": "/depairbnb/static/media/los-angeles.44220702.jpg",
+    "static/media/search3.6b619d13.svg": "/depairbnb/static/media/search3.6b619d13.svg",
+    "static/media/toronto.5c221cf7.jpg": "/depairbnb/static/media/toronto.5c221cf7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf86c5c5.js",
+    "static/css/2.c351112c.chunk.css",
+    "static/js/2.e240a4bb.chunk.js",
+    "static/css/main.02c38394.chunk.css",
+    "static/js/main.878a3d42.chunk.js"
+  ]
+}
